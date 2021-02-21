@@ -5,7 +5,7 @@
 - 🌱 I'm currently learning **C++**;
 - 👯 I’m looking to collaborate with other developers;
 - 🥅 2021 Goals: Learn **C++** and improve my **HTML/CSS** Skills;
-- ⚡ Fun fact: I like to play guitar / make music;
+- ⚡ Fun fact: I like to play videogames / play guitar / make music;
 <br/>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yakora&show_icons=true&theme=dark)
