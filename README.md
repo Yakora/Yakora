@@ -1,4 +1,4 @@
-### Wassup! I'm Federico - aka [[Yakora](https://github.com/Yakora "Yakora")] <img src"https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px">
+## Wassup! I'm Federico - aka [[Yakora](https://github.com/Yakora "Yakora")] <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
 ## I'm a young developer from italy, i'm just studying to improve my knowledge for the art of code!
 
