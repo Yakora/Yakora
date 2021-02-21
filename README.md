@@ -32,3 +32,11 @@
 ![GitHub metrics](https://metrics.lecoq.io/Yakora)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Yakora)  
+<br/>
+
+### Certificates:
+
+![](https://www.sololearn.com/Certificate/1014-15874461/jpg/)
+
+
+![](https://www.sololearn.com/Certificate/1023-15874461/jpg/)
