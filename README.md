@@ -1,4 +1,4 @@
-### Wassup!, I'm Federico - aka [[Yakora](http://https://github.com/Yakora "Yakora")] 👋
+### Wassup! I'm Federico - aka [[Yakora](http://https://github.com/Yakora "Yakora")] 👋
 
 ## I'm a young developer, i'm just studying to improve my knowledge for the art of code!
 
