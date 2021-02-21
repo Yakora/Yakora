@@ -24,13 +24,10 @@
 
 <br/>
 <br/>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yakora)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yakora&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Yakora)  
 
 ![GitHub metrics](https://metrics.lecoq.io/Yakora)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Yakora)  
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yakora&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
