@@ -1,12 +1,14 @@
 ### Wassup! I'm Federico - aka [[Yakora](http://https://github.com/Yakora "Yakora")] 👋
 
-## I'm a young developer, i'm just studying to improve my knowledge for the art of code!
+## I'm a young developer from italy, i'm just studying to improve my knowledge for the art of code!
 
 - 🌱 I'm currently learning **C++**;
 - 👯 I’m looking to collaborate with other developers;
 - 🥅 2021 Goals: Learn **C++** and improve my **HTML/CSS** Skills;
 - ⚡ Fun fact: I like to play guitar / make music;
 <br/>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yakora](https://github.com/anuraghazra/github-readme-stats)
 
 ### Languages and Tools:
 
