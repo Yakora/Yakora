@@ -8,7 +8,6 @@
 - ⚡ Fun fact: I like to play videogames / play guitar / make music;
 <br/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yakora&show_icons=true&theme=dark)
 
 ### Languages and Graphs:
 
@@ -28,10 +27,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yakora)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub metrics](https://metrics.lecoq.io/Yakora)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Yakora)  
-<br/>
 
 ### Certificates:
 
